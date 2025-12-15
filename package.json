@@ -1,0 +1,18 @@
+{
+  "name": "entrega-node-js-2025",
+  "version": "1.0.0",
+  "description": "Entrega talento tech 2025",
+  "license": "ISC",
+  "author": "FLORENCIA ANTOGNINI",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cowsay": "^1.6.0",
+    "express": "^5.2.1",
+    "dotenv": "^17.2.3",
+    "firebase": "^12.6.0"
+  }
+}
